@@ -1,0 +1,38 @@
+{
+    "6_rock_102_beat_3-4.wav": {
+        "reference_file": "3_funk_80_beat_4-4.wav",
+        "similarity_score": 0.9126
+    },
+    "竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3": {
+        "reference_file": "漁舟唱晚 (笛).mp3",
+        "similarity_score": 0.6077
+    },
+    "【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3": {
+        "reference_file": "元若藍-愛X無限大-03.綠柚子.mp3",
+        "similarity_score": 0.6069
+    },
+    "10_country_114_beat_4-4.wav": {
+        "reference_file": "79_latin-reggaeton_90_beat_4-4.wav",
+        "similarity_score": 0.6262
+    },
+    "Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3": {
+        "reference_file": "鄉歌.mp3",
+        "similarity_score": 0.6444
+    },
+    "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3": {
+        "reference_file": "MIDI-Unprocessed_SMF_05_R1_2004_01_ORIG_MID--AUDIO_05_R1_2004_02_Track02_wav.wav",
+        "similarity_score": 0.6311
+    },
+    "Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3": {
+        "reference_file": "MIDI-Unprocessed_XP_21_R1_2004_03_ORIG_MID--AUDIO_21_R1_2004_04_Track04_wav.wav",
+        "similarity_score": 0.7942
+    },
+    "Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3": {
+        "reference_file": "MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_08_Track08_wav.wav",
+        "similarity_score": 0.7209
+    },
+    "4_jazz_120_beat_3-4.wav": {
+        "reference_file": "2_funk_80_beat_4-4.wav",
+        "similarity_score": 0.6555
+    }
+}
