@@ -48,7 +48,7 @@ for i, target_file in enumerate(target_files):
     # only store with resolution 4 decimal places
     best_matches[os.path.basename(target_file)]["clap_score"] = round(float(similarity), 4)
 
-with open("best_matches_with_clap.json", "w") as json_file:
+with open("suno_clap_score.json", "w") as json_file:
     json.dump(best_matches, json_file, indent=4, ensure_ascii=False)
 
-print("CLAP scores computed and saved to best_matches_with_clap.json")
+print("CLAP scores computed and saved to suno_clap_score.json")
