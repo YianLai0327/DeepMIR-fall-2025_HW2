@@ -198,7 +198,3 @@ def plot_topk_matches(similarity_matrix, target_files, ref_files, k=5, save_path
 
 # 使用
 plot_topk_matches(similarity_matrix, target_files, ref_files, k=5)
-
-
-
-

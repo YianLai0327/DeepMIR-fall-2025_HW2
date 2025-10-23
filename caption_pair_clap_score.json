@@ -1,0 +1,38 @@
+{
+    "1.mp3": {
+        "caption": "Classical piano piece in G# minor, played at a brisk 136 BPM. The solo piano delivers a lively, intricate melody with dynamic shifts and rich harmonic progressions, creating a dramatic and elegant atmosphere.",
+        "clap_score": 0.3859
+    },
+    "2.mp3": {
+        "caption": "Gentle, instrumental piece in the new age genre, featuring a delicate piano melody and a soothing flute counterpoint. The slow tempo and soft dynamics create a serene and reflective atmosphere, perfect for relaxation or meditation.",
+        "clap_score": 0.4435
+    },
+    "3.wav": {
+        "caption": "Instrumental rock track with a driving, mid-tempo groove around 100 BPM. The sound is dominated by a tight, punchy drum kit featuring prominent snare hits, crisp hi-hats, and a steady kick drum pattern. The overall feel is energetic and rhythmic, suitable for background music or a dynamic scene.",
+        "clap_score": 0.4562
+    },
+    "4.wav": {
+        "caption": "Upbeat rock track with a driving 4/4 beat at 100 bpm. Prominent electric guitar riffs and a steady bass line create a confident, energetic mood.",
+        "clap_score": 0.2675
+    },
+    "5.wav": {
+        "caption": "Upbeat instrumental track in the pop-rock genre, featuring a driving drum beat with a steady 4/4 rhythm and a tempo around 109 BPM. The percussion is the sole instrument, delivering a consistent, energetic groove that creates a lively and engaging atmosphere.",
+        "clap_score": 0.2454
+    },
+    "6.mp3": {
+        "caption": "The audio features a solo flute performance with a classical style, evoking a serene and elegant mood. The piece is played in A minor with a moderate tempo of 120 BPM, creating a graceful and refined atmosphere.",
+        "clap_score": 0.536
+    },
+    "7.mp3": {
+        "caption": "Classical piano piece in F major, tempo 98 BPM. Gentle, flowing melody with rich harmonic progressions. Mood is serene and contemplative, evoking a sense of calm and introspection.",
+        "clap_score": 0.5255
+    },
+    "8.mp3": {
+        "caption": "The piece is a classical instrumental with a gentle piano melody that evokes a sense of nostalgia and romance. The mood is tender and sentimental, perfect for a romantic evening or a quiet moment of reflection.",
+        "clap_score": 0.527
+    },
+    "9.mp3": {
+        "caption": "Traditional Chinese instrumental piece featuring a gentle flute melody over a soft, acoustic piano accompaniment. The music is slow, meditative, and evokes a serene, reflective mood.",
+        "clap_score": 0.4143
+    }
+}
