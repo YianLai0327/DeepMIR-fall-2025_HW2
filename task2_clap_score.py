@@ -14,6 +14,7 @@ target_files = [file for file in os.listdir(target_dir) if file.endswith(".wav")
 with open("task2_suno_clap_score.json", "r") as json_file:
     datas = json.load(json_file)
     
+# ref_files = [datas[file].get("matched_melodycondition", None) for file in target_files]
 ref_files = [datas[file].get("matched_song_in_suno", None) for file in target_files]
 
 target_files = [os.path.join(target_dir, file) for file in target_files]
@@ -30,7 +31,8 @@ for i, target_file in enumerate(target_files):
     ref_embed = ref_audio_embed[i].reshape(1, -1)
     similarity = cosine_similarity(target_embed, ref_embed)[0][0]
     # only store with resolution 4 decimal places
-    datas[os.path.basename(target_file)]["clap_score"] = round(float(similarity), 4)
+    # datas[os.path.basename(target_file)]["melodycondition_clap_score"] = round(float(similarity), 4)
+    datas[os.path.basename(target_file)]["suno_clap_score"] = float(f"{similarity:.4f}")
 
 with open("task2_suno_clap_score.json", "w") as json_file:
     json.dump(datas, json_file, indent=4, ensure_ascii=False)

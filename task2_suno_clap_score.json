@@ -2,55 +2,73 @@
     "1.mp3": {
         "target_song": "1.mp3",
         "matched_song_in_suno": "suno_song/1.mp3",
+        "matched_melodycondition": "melodycondition/test_0.wav",
         "matched_song_in_origin_dir": "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3.mp3",
-        "clap_score": 0.8233
+        "suno_clap_score": 0.6628,
+        "melodycondition_clap_score": 0.4112
     },
     "2.mp3": {
         "target_song": "2.mp3",
         "matched_song_in_suno": "suno_song/2.mp3",
+        "matched_melodycondition": "melodycondition/test_1.wav",
         "matched_song_in_origin_dir": "【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3",
-        "clap_score": 0.7212
+        "suno_clap_score": 0.6676,
+        "melodycondition_clap_score": 0.5852
     },
     "3.wav": {
         "target_song": "3.wav",
         "matched_song_in_suno": "suno_song/3.mp3",
+        "matched_melodycondition": "melodycondition/test_2.wav",
         "matched_song_in_origin_dir": "4_jazz_120_beat_3-4.wav",
-        "clap_score": 0.4321
+        "suno_clap_score": 0.4395,
+        "melodycondition_clap_score": 0.7657
     },
     "4.wav": {
         "target_song": "4.wav",
         "matched_song_in_suno": "suno_song/4.mp3",
+        "matched_melodycondition": "melodycondition/test_3.wav",
         "matched_song_in_origin_dir": "6_rock_102_beat_3-4.wav",
-        "clap_score": 0.4333
+        "suno_clap_score": 0.4555,
+        "melodycondition_clap_score": 0.7554
     },
     "5.wav": {
         "target_song": "5.wav",
         "matched_song_in_suno": "suno_song/5.mp3",
+        "matched_melodycondition": "melodycondition/test_4.wav",
         "matched_song_in_origin_dir": "10_country_114_beat_4-4.wav",
-        "clap_score": 0.3132
+        "suno_clap_score": 0.2841,
+        "melodycondition_clap_score": 0.7632
     },
     "6.mp3": {
         "target_song": "6.mp3",
         "matched_song_in_suno": "suno_song/6.mp3",
+        "matched_melodycondition": "melodycondition/test_5.wav",
         "matched_song_in_origin_dir": "Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3",
-        "clap_score": 0.7709
+        "suno_clap_score": 0.7746,
+        "melodycondition_clap_score": 0.7488
     },
     "7.mp3": {
         "target_song": "7.mp3",
         "matched_song_in_suno": "suno_song/7.mp3",
+        "matched_melodycondition": "melodycondition/test_6.wav",
         "matched_song_in_origin_dir": "Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3",
-        "clap_score": 0.7107
+        "suno_clap_score": 0.7343,
+        "melodycondition_clap_score": 0.62
     },
     "8.mp3": {
         "target_song": "8.mp3",
         "matched_song_in_suno": "suno_song/8.mp3",
+        "matched_melodycondition": "melodycondition/test_7.wav",
         "matched_song_in_origin_dir": "Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3",
-        "clap_score": 0.7803
+        "suno_clap_score": 0.7662,
+        "melodycondition_clap_score": 0.8012
     },
     "9.mp3": {
         "target_song": "9.mp3",
         "matched_song_in_suno": "suno_song/9.mp3",
+        "matched_melodycondition": "melodycondition/test_8.wav",
         "matched_song_in_origin_dir": "竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3",
-        "clap_score": 0.7306
+        "suno_clap_score": 0.6425,
+        "melodycondition_clap_score": 0.8021
     }
 }
