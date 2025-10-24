@@ -17,7 +17,9 @@
         },
         "melodycondition_audiobox": {
             "CE": 7.5663, "CU": 8.1112, "PC": 3.9806, "PQ": 8.0464
-        }
+        },
+        "melody_acc_melodycondition": 0.5769,
+        "melody_acc_suno": 0.0473
     },
     "2.wav": {
         "origin_target_song": "2.mp3",
@@ -37,7 +39,9 @@
         },
         "melodycondition_audiobox": {
             "CE": 7.5449, "CU": 7.8797, "PC": 3.8125, "PQ": 7.7904
-        }
+        },
+        "melody_acc_melodycondition": 0.6768,
+        "melody_acc_suno": 0.0600
     },
     "3.wav": {
         "origin_target_song": "3.wav",
@@ -57,7 +61,9 @@
         },
         "melodycondition_audiobox": {
             "CE": 6.2283, "CU": 7.4945, "PC": 5.0924, "PQ": 7.1733
-        }
+        },
+        "melody_acc_melodycondition": 0.6901,
+        "melody_acc_suno": 0.0711
     },
     "4.wav": {
         "origin_target_song": "4.wav",
@@ -77,7 +83,9 @@
         },
         "melodycondition_audiobox": {
             "CE": 6.4748, "CU": 7.6694, "PC": 5.1728, "PQ": 7.1632
-        }
+        },
+        "melody_acc_melodycondition": 0.2435,
+        "melody_acc_suno": 0.0556
     },
     "5.wav": {
         "origin_target_song": "5.wav",
@@ -97,7 +105,9 @@
         },
         "melodycondition_audiobox": {
             "CE": 7.2422, "CU": 8.0554, "PC": 4.8673, "PQ": 7.7521
-        }
+        },
+        "melody_acc_melodycondition": 0.3158,
+        "melody_acc_suno": 0.0338
     },
     "6.wav": {
         "origin_target_song": "6.mp3",
@@ -117,7 +127,9 @@
         },
         "melodycondition_audiobox": {
             "CE": 7.0392, "CU": 7.9065, "PC": 2.6557, "PQ": 7.3835
-        }
+        },
+        "melody_acc_melodycondition": 0.8180,
+        "melody_acc_suno": 0.0878
     },
     "7.wav": {
         "origin_target_song": "7.mp3",
@@ -137,7 +149,9 @@
         },
         "melodycondition_audiobox": {
             "CE": 7.4862, "CU": 8.0675, "PC": 2.4849, "PQ": 7.9444
-        }
+        },
+        "melody_acc_melodycondition": 0.7395,
+        "melody_acc_suno": 0.0963
     },
     "8.wav": {
         "origin_target_song": "8.mp3",
@@ -157,7 +171,9 @@
         },
         "melodycondition_audiobox": {
             "CE": 7.7752, "CU": 8.1372, "PC": 3.2777, "PQ": 8.0856
-        }
+        },
+        "melody_acc_melodycondition": 0.5810,
+        "melody_acc_suno": 0.1188
     },
     "9.wav": {
         "origin_target_song": "9.mp3",
@@ -177,6 +193,8 @@
         },
         "melodycondition_audiobox": {
             "CE": 7.597, "CU": 8.1954, "PC": 3.8926, "PQ": 8.2993
-        }
+        },
+        "melody_acc_melodycondition": 0.7751,
+        "melody_acc_suno": 0.0998
     }
 }

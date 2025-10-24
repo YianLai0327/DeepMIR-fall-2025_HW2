@@ -5,7 +5,8 @@
         "clap_score": 0.9507,
         "audiobox": {
             "CE": 7.1339, "CU": 8.1295, "PC": 3.214, "PQ": 7.939
-        }
+        },
+        "melody_acc": 0.1082
     },
     "竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3": {
         "reference_file": "漁舟唱晚 (笛).mp3",
@@ -13,7 +14,8 @@
         "clap_score": 0.4173,
         "audiobox": {
             "CE": 7.0534, "CU": 7.8001, "PC": 3.5552, "PQ": 7.9404
-        }
+        },
+        "melody_acc": 0.1555
     },
     "【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3": {
         "reference_file": "元若藍-愛X無限大-03.綠柚子.mp3",
@@ -21,7 +23,8 @@
         "clap_score": 0.7764,
         "audiobox": {
             "CE": 7.6124, "CU": 7.847, "PC": 6.1943, "PQ": 8.2427
-        }
+        },
+        "melody_acc": 0.0427
     },
     "10_country_114_beat_4-4.wav": {
         "reference_file": "79_latin-reggaeton_90_beat_4-4.wav",
@@ -29,7 +32,8 @@
         "clap_score": 0.8273,
         "audiobox": {
             "CE": 6.4788, "CU": 8.0021, "PC": 2.996, "PQ": 7.7039
-        }
+        },
+        "melody_acc": 0.0851
     },
     "Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3": {
         "reference_file": "鄉歌.mp3",
@@ -37,15 +41,17 @@
         "clap_score": 0.6765,
         "audiobox": {
             "CE": 7.2161, "CU": 6.7348, "PC": 3.894, "PQ": 6.9207
-        }
+        },
+        "melody_acc": 0.1438
     },
-    "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3": {
+    "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3.mp3": {
         "reference_file": "MIDI-Unprocessed_SMF_05_R1_2004_01_ORIG_MID--AUDIO_05_R1_2004_02_Track02_wav.wav",
         "similarity_score": 0.6311,
         "clap_score": 0.6197,
         "audiobox": {
             "CE": 7.2898, "CU": 7.5536, "PC": 3.4317, "PQ": 7.4072
-        }
+        },
+        "melody_acc": 0.1712 
     },
     "Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3": {
         "reference_file": "MIDI-Unprocessed_XP_21_R1_2004_03_ORIG_MID--AUDIO_21_R1_2004_04_Track04_wav.wav",
@@ -53,7 +59,8 @@
         "clap_score": 0.8202,
         "audiobox": {
             "CE": 7.3371, "CU": 7.781, "PC": 2.781, "PQ": 7.5531
-        }
+        },
+        "melody_acc": 0.1709
     },
     "Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3": {
         "reference_file": "MIDI-Unprocessed_SMF_02_R1_2004_01-05_ORIG_MID--AUDIO_02_R1_2004_08_Track08_wav.wav",
@@ -61,7 +68,8 @@
         "clap_score": 0.7276,
         "audiobox": {
             "CE": 7.4415, "CU": 7.7526, "PC": 3.4924, "PQ": 7.4894
-        }
+        },
+        "melody_acc": 0.1735
     },
     "4_jazz_120_beat_3-4.wav": {
         "reference_file": "2_funk_80_beat_4-4.wav",
@@ -69,6 +77,7 @@
         "clap_score": 0.8602,
         "audiobox": {
             "CE": 6.8134, "CU": 8.0199, "PC": 3.1502, "PQ": 7.8062
-        }
+        },
+        "melody_acc": 0.1341
     }
 }

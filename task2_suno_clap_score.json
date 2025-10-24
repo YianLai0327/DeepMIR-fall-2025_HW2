@@ -11,7 +11,9 @@
         "suno_clap_score_w_uncropped": 0.7133,
         "suno_clap_score_w_cropped": 0.7222,
         "melodycondition_w_uncropped": 0.6999,
-        "melodycondition_w_cropped": 0.6285
+        "melodycondition_w_cropped": 0.6285,
+        "melody_acc_melodycondition": 0.651,
+        "melody_acc_suno": 0.634
     },
     "2.wav": {
         "origin_target_song": "2.mp3",
