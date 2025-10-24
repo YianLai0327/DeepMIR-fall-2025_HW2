@@ -6,12 +6,18 @@
         "matched_song_in_origin_dir": "【楽譜あり】IRIS OUT⧸米津玄師（ピアノソロ上級）劇場版『チェンソーマン レゼ篇』主題歌【ピアノアレンジ楽譜】.mp3.mp3",
         "caption": "Classical piano piece in G# minor, played at a brisk 136 BPM. The solo piano delivers a lively, intricate melody with dynamic shifts and rich harmonic progressions, creating a dramatic and elegant atmosphere.",
         "origin_song_caption_clap_score": 0.3859,
-        "melodycondition_song_caption_clap_score": 0.4337,
-        "suno_song_caption_clap_score": null,
-        "suno_clap_score_w_uncropped": 0.7133,
-        "suno_clap_score_w_cropped": 0.7222,
-        "melodycondition_w_uncropped": 0.6999,
-        "melodycondition_w_cropped": 0.6285
+        "melodycondition_song_caption_clap_score": 0.4751,
+        "suno_song_caption_clap_score": 0.4855,
+        "suno_clap_score_w_uncropped": 0.6791,
+        "suno_clap_score_w_cropped": 0.7252,
+        "melodycondition_w_uncropped": 0.6353,
+        "melodycondition_w_cropped": 0.6394,
+        "suno_audiobox": {
+            "CE": 7.7367, "CU": 7.9929, "PC": 3.3287, "PQ": 7.7837
+        },
+        "melodycondition_audiobox": {
+            "CE": 7.5663, "CU": 8.1112, "PC": 3.9806, "PQ": 8.0464
+        }
     },
     "2.wav": {
         "origin_target_song": "2.mp3",
@@ -20,12 +26,18 @@
         "matched_song_in_origin_dir": "【菊花台-周杰倫（D調）】附伴奏⧸鋼琴伴奏(竹笛Bamboo flute、Roland Aerophone AE-10) 演奏：蘇俊琪(PSR-S970)audio-technica AT-2035_60s.mp3",
         "caption": "Gentle, instrumental piece in the new age genre, featuring a delicate piano melody and a soothing flute counterpoint. The slow tempo and soft dynamics create a serene and reflective atmosphere, perfect for relaxation or meditation.",
         "origin_song_caption_clap_score": 0.4435,
-        "melodycondition_song_caption_clap_score": 0.507,
-        "suno_song_caption_clap_score": null,
-        "suno_clap_score_w_uncropped": 0.596,
-        "suno_clap_score_w_cropped": 0.6968,
-        "melodycondition_w_uncropped": 0.6927,
-        "melodycondition_w_cropped": 0.6378
+        "melodycondition_song_caption_clap_score": 0.4126,
+        "suno_song_caption_clap_score": 0.4742,
+        "suno_clap_score_w_uncropped": 0.6376,
+        "suno_clap_score_w_cropped": 0.5554,
+        "melodycondition_w_uncropped": 0.7228,
+        "melodycondition_w_cropped": 0.6276,
+        "suno_audiobox": {
+            "CE": 7.5132, "CU": 8.1706, "PC": 5.7049, "PQ": 8.2026
+        },
+        "melodycondition_audiobox": {
+            "CE": 7.5449, "CU": 7.8797, "PC": 3.8125, "PQ": 7.7904
+        }
     },
     "3.wav": {
         "origin_target_song": "3.wav",
@@ -34,12 +46,18 @@
         "matched_song_in_origin_dir": "4_jazz_120_beat_3-4.wav",
         "caption": "Instrumental rock track with a driving, mid-tempo groove around 100 BPM. The sound is dominated by a tight, punchy drum kit featuring prominent snare hits, crisp hi-hats, and a steady kick drum pattern. The overall feel is energetic and rhythmic, suitable for background music or a dynamic scene.",
         "origin_song_caption_clap_score": 0.4562,
-        "melodycondition_song_caption_clap_score": 0.3681,
-        "suno_song_caption_clap_score": null,
-        "suno_clap_score_w_uncropped": 0.4687,
-        "suno_clap_score_w_cropped": 0.4253,
-        "melodycondition_w_uncropped": 0.6054,
-        "melodycondition_w_cropped": 0.7178
+        "melodycondition_song_caption_clap_score": 0.4461,
+        "suno_song_caption_clap_score": 0.4411,
+        "suno_clap_score_w_uncropped": 0.3493,
+        "suno_clap_score_w_cropped": 0.4019,
+        "melodycondition_w_uncropped": 0.7434,
+        "melodycondition_w_cropped": 0.7739,
+        "suno_audiobox": {
+            "CE": 7.671, "CU": 8.1459, "PC": 5.816, "PQ": 8.3401
+        },
+        "melodycondition_audiobox": {
+            "CE": 6.2283, "CU": 7.4945, "PC": 5.0924, "PQ": 7.1733
+        }
     },
     "4.wav": {
         "origin_target_song": "4.wav",
@@ -48,12 +66,18 @@
         "matched_song_in_origin_dir": "6_rock_102_beat_3-4.wav",
         "caption": "Upbeat rock track with a driving 4/4 beat at 100 bpm. Prominent electric guitar riffs and a steady bass line create a confident, energetic mood.",
         "origin_song_caption_clap_score": 0.2675,
-        "melodycondition_song_caption_clap_score": 0.2937,
-        "suno_song_caption_clap_score": null,
-        "suno_clap_score_w_uncropped": 0.3716,
-        "suno_clap_score_w_cropped": 0.3857,
-        "melodycondition_w_uncropped": 0.8305,
-        "melodycondition_w_cropped": 0.8038
+        "melodycondition_song_caption_clap_score": 0.2837,
+        "suno_song_caption_clap_score": 0.3069,
+        "suno_clap_score_w_uncropped": 0.4081,
+        "suno_clap_score_w_cropped": 0.4513,
+        "melodycondition_w_uncropped": 0.7907,
+        "melodycondition_w_cropped": 0.8099,
+        "suno_audiobox": {
+            "CE": 7.6461, "CU": 7.9979, "PC": 3.5028, "PQ": 7.7961
+        },
+        "melodycondition_audiobox": {
+            "CE": 6.4748, "CU": 7.6694, "PC": 5.1728, "PQ": 7.1632
+        }
     },
     "5.wav": {
         "origin_target_song": "5.wav",
@@ -62,12 +86,18 @@
         "matched_song_in_origin_dir": "10_country_114_beat_4-4.wav",
         "caption": "Upbeat instrumental track in the pop-rock genre, featuring a driving drum beat with a steady 4/4 rhythm and a tempo around 109 BPM. The percussion is the sole instrument, delivering a consistent, energetic groove that creates a lively and engaging atmosphere.",
         "origin_song_caption_clap_score": 0.2454,
-        "melodycondition_song_caption_clap_score": 0.4964,
-        "suno_song_caption_clap_score": null,
-        "suno_clap_score_w_uncropped": 0.2729,
-        "suno_clap_score_w_cropped": 0.281,
-        "melodycondition_w_uncropped": 0.8014,
-        "melodycondition_w_cropped": 0.802
+        "melodycondition_song_caption_clap_score": 0.4523,
+        "suno_song_caption_clap_score": 0.4256,
+        "suno_clap_score_w_uncropped": 0.3582,
+        "suno_clap_score_w_cropped": 0.2961,
+        "melodycondition_w_uncropped": 0.7216,
+        "melodycondition_w_cropped": 0.7304,
+        "suno_audiobox": {
+            "CE": 7.698, "CU": 8.0304, "PC": 3.8576, "PQ": 7.9778
+        },
+        "melodycondition_audiobox": {
+            "CE": 7.2422, "CU": 8.0554, "PC": 4.8673, "PQ": 7.7521
+        }
     },
     "6.wav": {
         "origin_target_song": "6.mp3",
@@ -76,12 +106,18 @@
         "matched_song_in_origin_dir": "Hedwig’s theme x dizi ｜from Harry Potter ｜竹笛也能施魔法！Bamboo flute_60s.mp3",
         "caption": "The audio features a solo flute performance with a classical style, evoking a serene and elegant mood. The piece is played in A minor with a moderate tempo of 120 BPM, creating a graceful and refined atmosphere.",
         "origin_song_caption_clap_score": 0.536,
-        "melodycondition_song_caption_clap_score": 0.4239,
-        "suno_song_caption_clap_score": null,
-        "suno_clap_score_w_uncropped": 0.7573,
-        "suno_clap_score_w_cropped": 0.7503,
-        "melodycondition_w_uncropped": 0.6172,
-        "melodycondition_w_cropped": 0.6734
+        "melodycondition_song_caption_clap_score": 0.424,
+        "suno_song_caption_clap_score": 0.4675,
+        "suno_clap_score_w_uncropped": 0.6966,
+        "suno_clap_score_w_cropped": 0.7511,
+        "melodycondition_w_uncropped": 0.5867,
+        "melodycondition_w_cropped": 0.6815,
+        "suno_audiobox": {
+            "CE": 7.675, "CU": 7.9581, "PC": 4.196, "PQ": 7.8539
+        },
+        "melodycondition_audiobox": {
+            "CE": 7.0392, "CU": 7.9065, "PC": 2.6557, "PQ": 7.3835
+        }
     },
     "7.wav": {
         "origin_target_song": "7.mp3",
@@ -90,12 +126,18 @@
         "matched_song_in_origin_dir": "Mussorgsky： Pictures at an Exhibition (Pletnev, Andsnes)_60s.mp3",
         "caption": "Classical piano piece in F major, tempo 98 BPM. Gentle, flowing melody with rich harmonic progressions. Mood is serene and contemplative, evoking a sense of calm and introspection.",
         "origin_song_caption_clap_score": 0.5255,
-        "melodycondition_song_caption_clap_score": 0.4543,
-        "suno_song_caption_clap_score": null,
-        "suno_clap_score_w_uncropped": 0.7605,
-        "suno_clap_score_w_cropped": 0.6611,
-        "melodycondition_w_uncropped": 0.6566,
-        "melodycondition_w_cropped": 0.6712
+        "melodycondition_song_caption_clap_score": 0.452,
+        "suno_song_caption_clap_score": 0.4538,
+        "suno_clap_score_w_uncropped": 0.7633,
+        "suno_clap_score_w_cropped": 0.7901,
+        "melodycondition_w_uncropped": 0.7047,
+        "melodycondition_w_cropped": 0.7368,
+        "suno_audiobox": {
+            "CE": 7.6205, "CU": 8.139, "PC": 6.1261, "PQ": 8.2363
+        },
+        "melodycondition_audiobox": {
+            "CE": 7.4862, "CU": 8.0675, "PC": 2.4849, "PQ": 7.9444
+        }
     },
     "8.wav": {
         "origin_target_song": "8.mp3",
@@ -104,12 +146,18 @@
         "matched_song_in_origin_dir": "Spirited Away OST「Always With Me ⧸ Itsumo Nando Demo」Ru's Piano Cover [Sheet Music]_60s.mp3",
         "caption": "The piece is a classical instrumental with a gentle piano melody that evokes a sense of nostalgia and romance. The mood is tender and sentimental, perfect for a romantic evening or a quiet moment of reflection.",
         "origin_song_caption_clap_score": 0.527,
-        "melodycondition_song_caption_clap_score": 0.4601,
-        "suno_song_caption_clap_score": null,
-        "suno_clap_score_w_uncropped": 0.8255,
-        "suno_clap_score_w_cropped": 0.8228,
-        "melodycondition_w_uncropped": 0.7476,
-        "melodycondition_w_cropped": 0.7694
+        "melodycondition_song_caption_clap_score": 0.4608,
+        "suno_song_caption_clap_score": 0.4674,
+        "suno_clap_score_w_uncropped": 0.7512,
+        "suno_clap_score_w_cropped": 0.75,
+        "melodycondition_w_uncropped": 0.7704,
+        "melodycondition_w_cropped": 0.7775,
+        "suno_audiobox": {
+            "CE": 7.6714, "CU": 7.9913, "PC": 3.4917, "PQ": 7.7594
+        },
+        "melodycondition_audiobox": {
+            "CE": 7.7752, "CU": 8.1372, "PC": 3.2777, "PQ": 8.0856
+        }
     },
     "9.wav": {
         "origin_target_song": "9.mp3",
@@ -118,11 +166,17 @@
         "matched_song_in_origin_dir": "竹笛｜这世界那么多人_cover 莫文蔚_60s.mp3",
         "caption": "Traditional Chinese instrumental piece featuring a gentle flute melody over a soft, acoustic piano accompaniment. The music is slow, meditative, and evokes a serene, reflective mood.",
         "origin_song_caption_clap_score": 0.4143,
-        "melodycondition_song_caption_clap_score": 0.4531,
-        "suno_song_caption_clap_score": null,
-        "suno_clap_score_w_uncropped": 0.6677,
-        "suno_clap_score_w_cropped": 0.6947,
-        "melodycondition_w_uncropped": 0.5045,
-        "melodycondition_w_cropped": 0.486
+        "melodycondition_song_caption_clap_score": 0.4385,
+        "suno_song_caption_clap_score": 0.2616,
+        "suno_clap_score_w_uncropped": 0.8206,
+        "suno_clap_score_w_cropped": 0.6073,
+        "melodycondition_w_uncropped": 0.5763,
+        "melodycondition_w_cropped": 0.5955,
+        "suno_audiobox": {
+            "CE": 7.5439, "CU": 8.042, "PC": 4.0979, "PQ": 7.8574
+        },
+        "melodycondition_audiobox": {
+            "CE": 7.597, "CU": 8.1954, "PC": 3.8926, "PQ": 8.2993
+        }
     }
 }
